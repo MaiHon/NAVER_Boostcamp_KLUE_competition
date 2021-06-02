@@ -5,17 +5,17 @@
 <br></br>
 
 ## 📋 Table of content
-+ [최정결과](#Result)
-+ [대회개요](#Overview)
-+ [데이터개요](#Data)
-+ [문제정의 및 해결방법](#Solution)
-+ [폴더구조](#Directory)
-+ [소스코드설명](#Code)
++ [🏅최종결과](#Result)
++ [🔤대회개요](#Overview)
++ [💾데이터개요](#Data)
++ [📝문제정의 및 해결방법](#Solution)
++ [🗄폴더구조](#Directory)
++ [💻소스코드설명](#Code)
 <br></br>
 <br></br>
 
 
-## 🍀 최종 결과 <a name = 'Result'></a>
+## 🏅 최종 결과 <a name = 'Result'></a>
 - [[Relation Extraction]](http://boostcamp.stages.ai/competitions/4/overview/description)
     - Final LB (39/135)
         - Acc: 80.1%
